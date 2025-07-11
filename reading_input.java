@@ -17,3 +17,17 @@ public class Program {
 		System.out.println(message);
 	}
 }
+
+/* Nesse caso o sistema pede:
+
+Write a message:
+
+‘o usuário escreve’
+
+O sistema repete na tela o que foi escrito
+
+Input é lido com a ferramenta scanner nextLine().
+
+scanner.nextLine() está esperando que o usuário escreva algo.
+
+Ao escrever e dar enter, a string é marcada como uma string variable. O programa fica disponível para referenciar a variável mensagem. */
