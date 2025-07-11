@@ -14,3 +14,15 @@ public static void main(String[] args) {
     System.out.println("a progam");
 	}
 }
+public class Comments {
+	public static void main(String[] args) {
+		//printing
+		System.out.println("Text to print");
+		System.out.println("More text to print");
+		/* next:
+		-more on printing
+		-more practice
+		-variables
+		*/
+	}
+}
