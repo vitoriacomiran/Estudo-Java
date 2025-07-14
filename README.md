@@ -3,13 +3,13 @@
 Este repositório agrupa os estudos que estou fazendo em Java.
 ### 📁 Estrutura:
 
-- 'variáveis'
-- 'impressão'
-- 'execução'
-- 'operações'
-- 'cálculos'
-- 'estruturas condicionais'
-- 'exercícios'
+- ´variáveis´
+- ´impressão´
+- ´execução´
+- ´operações´
+- ´cálculos´
+- ´estruturas condicionais´
+- ´exercícios´
   
 ### 📌 Objetivo
 
