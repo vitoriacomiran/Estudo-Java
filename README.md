@@ -6,24 +6,12 @@ Este repositório contém meus estudos iniciais da linguagem Java, com foco nos 
 
 ## 🗂 Estrutura dos Arquivos
 
-| Arquivo                          | Conteúdo                                                                 |
+| Pastas                           | Conteúdo                                                                 |
 |----------------------------------|--------------------------------------------------------------------------|
-| `variables.java`                 | Declaração e uso de variáveis.                                           |
-| `printing.java`                 | Impressão de mensagens no console.                                       |
-| `printing_multiple_lines.java`   | Impressão de múltiplas linhas.                                           |
-| `program_execution_input.java`   | Execução do programa com entrada de dados.                               |
-| `reading_input.java`             | Leitura de dados básicos do usuário.                                     |
-| `reading_integers.java`          | Leitura de números inteiros.                                             |
-| `reading_doubles.java`           | Leitura de números com ponto flutuante (`double`).                       |
-| `reading_strings.java`           | Leitura de textos.                                                       |
-| `reading_booleans.java`          | Leitura de valores booleanos.                                            |
-| `concatenation.java`             | Concatenando textos e valores.                                           |
-| `calculating.java`               | Operações aritméticas básicas.                                           |
-| `calculation_02.java`            | Prática com cálculos mais elaborados.                                    |
-| `conditional_statements.java`    | Estruturas condicionais (`if`, `else`).                                  |
-| `conditional_statements_02.java` | Condições compostas e encadeadas.                                        |
-| `exercise.java`                  | Exercício prático para fixação dos conceitos estudados.                  |
-| `summary.java`                   | Resumo geral dos conceitos abordados até agora.                          |
+| `variables`                      | Variáveis. Leitura. Impressão. Concatenação                              |
+| `calculating.`                   | Operações aritméticas básicas. Prática com cálculos mais elaborados.     |
+| `conditional`                    | Estruturas condicionais (`if`, `else`). Condições compostas e encadeadas.|
+
 
 ---
 
